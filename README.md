@@ -1,5 +1,7 @@
 # A Lightweight Channel-Attention CNN for Robust Beat-Level Arrhythmia Detection
 
+Paper Link = https://doi.org/10.1109/ACCESS.2026.3686810
+
 **Authors:**
 
 1. Mohammad Sadman Tahsin, AI-Based Autonomous Systems Research Lab, Department of Electrical Engineering and Computer Science, Frank H. Dotterweich College of Engineering, Texas A&M University-Kingsville, MSC 192, 917 W. Avenue B, Kingsville, TX 78363, USA; mohammad.tahsin@students.tamuk.edu
